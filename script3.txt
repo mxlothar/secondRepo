@@ -1,3 +1,0 @@
-This is script3.txt created locally
-This is just a bug fix.
-w00t
